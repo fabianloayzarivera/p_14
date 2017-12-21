@@ -2,6 +2,12 @@
 
 #include "stdafx.h"
 #include <string>
+
+enum ImageType {
+	JPG,
+	PNG
+};
+
 class CImagen
 {
 public:
